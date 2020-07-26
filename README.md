@@ -40,7 +40,7 @@ I think the best code is readable, expandable, and changeable.Haha :+1:
 
 If you'd like to share a technical conversation.
 
-Feel free to contact me anytime. :phone: I'm always waiting.:business_suit_leviting:
+Feel free to contact me anytime. :phone: I'm always waiting :business_suit_levitating:
 
 
 
