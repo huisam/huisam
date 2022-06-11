@@ -49,7 +49,7 @@ Thank you.
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huisam&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=huisam)](https://solved.ac/huisam})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=huisam)](https://solved.ac/huisam)
 
 <!--
 **huisam/huisam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
