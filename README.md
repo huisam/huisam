@@ -4,7 +4,7 @@
 
 **서버 개발**에 관심이 많은 개발자입니다:grinning:  
 
-주로 **Java**, **Spring Framework** 에 개발하는 것을 즐겨하지만. 
+주로 **Kotlin**, **Spring Framework** 에 개발하는 것을 즐겨하지만. 
 
 다른 언어, 프레임워크도 많이 관심 있고, 흥미 있어합니다~!:smile:
 
@@ -29,7 +29,7 @@ Hi there
   
 I am a developer who is interested in server development:grinning:  
 
-I usually enjoy developing it in **Java**, **Spring Framework**.
+I usually enjoy developing it in **Kotlin**, **Spring Framework**.
 
 I'm interested in other languages, frameworks, and I'm interested~!:smile:
 
@@ -45,6 +45,11 @@ Feel free to contact me anytime. :phone: I'm always waiting :business_suit_levit
 
 
 Thank you.
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huisam&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=huisam)](https://solved.ac/huisam})
 
 <!--
 **huisam/huisam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
